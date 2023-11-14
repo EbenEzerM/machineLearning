@@ -5,7 +5,7 @@ Machine Learning adalah disiplin ilmu yang melibatkan pengembangan algoritma dan
 ### Jawaban 2
 Contoh penerapan Machine Learning dalam kehidupan sehari-hari yaitu :
 - Asisten virtual: Asisten virtual seperti Siri, Alexa, dan Google Assistant menggunakan algoritme machine learning untuk memahami dan merespons permintaan pengguna. Ini dibutukan karena asisten virtual memungkinkan komunikasi yang lebih efisien dan cepat antara pengguna dan teknologi.
-- Sistem rekomendasi : Saat Anda berbelanja online, sistem rekomendasi menggunakan Machine Learning untuk memberikan saran produk yang mungkin Anda suka berdasarkan riwayat pembelian. Ini dibutuhkan karena Sistem rekomendasi memungkinkan pengalaman belanja atau konsumsi konten yang lebih dipersonalisasi.
+- Sistem rekomendasi : Saat kita berbelanja online, sistem rekomendasi menggunakan Machine Learning untuk memberikan saran produk yang mungkin kita suka berdasarkan riwayat pembelian. Ini dibutuhkan karena Sistem rekomendasi memungkinkan pengalaman belanja atau konsumsi konten yang lebih dipersonalisasi.
 - Pengenalan gambar dan suara: Algoritme machine learning digunakan dalam teknologi pengenalan gambar dan ucapan, seperti pengenalan wajah dan program speech-to-text. Ini dibutuhkan karena pengenalan gambar dan suara membuka pintu bagi interaksi alami antara manusia dan teknologi.
 
 Manfaatnya :
